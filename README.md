@@ -36,4 +36,3 @@ Data Source: Provided case-study data for a fictional company.
 * cohort-retention-analysis.sql: all SQL queries, in order, with comments.
 * Visualizations (folder): Visualizations screenshots.
 * Data (folder): the three CSVs.
-* Tableau Public Link >> 
