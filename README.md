@@ -12,8 +12,13 @@ Data Source: Provided case-study data for a fictional company.
 
 ## Key Findings
 * Newer customers retain worse: 68% of March to June signups were retained at month 3, versus 81% of October to February signups.
+![Cohort Retention Table](Visualizations/Q1-Cohorts.png)
+
 * Early churn is concentrated in the Basic plan (48% of accounts but 66% of those lost by month 3) and in Paid Ads signups (30% of accounts but 41% of those lost by month 3), and both remain the weakest at month 6.
+![Churn Retention (Plan, Channel)](Visualizations/Q2-Where.png)
+
 * Accounts that had an onboarding call retained 18 points better at month 3 (83% vs 65%), and the gap holds within every plan, but calls may not have been randomly assigned, so this shows an association, not proof that calls work.
+![Onboarding Call Impact](Visualizations/Q3-Calls.png)
 
 ## Recommendation
 * A randomized test: give a call to a random half of the next new Basic and Paid Ads signups, and compare month-3 retention between the two groups. 
